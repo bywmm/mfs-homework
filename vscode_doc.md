@@ -118,3 +118,5 @@
 打开分支按钮，可以看到修改前后的对比
 
 ![](https://work.mafengshe.com/static/upload/article/pic1561728767581.jpg)
+
+点击对号符号，可以进行提交；点击更多按钮可以进行push、pull等更多git操作。
